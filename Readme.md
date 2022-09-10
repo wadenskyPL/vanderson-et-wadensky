@@ -1,3 +1,3 @@
 # vanderson-et-wadensky
-Lindor Vanderson
-Pierre Louis Wadensky
+LINDOR Vanderson
+PIERR LOUIS Wadensky
